@@ -1,1 +1,5 @@
-# Semana2-ForoN-5
+# Importante
+
+Para iniciar el proyecto ejecutar en terminal:
+
+npm install
